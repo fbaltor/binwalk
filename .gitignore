@@ -4,3 +4,5 @@ dist
 *.extracted
 *.pyc
 **/*.egg-info
+
+.env
