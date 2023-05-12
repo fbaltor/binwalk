@@ -7,6 +7,13 @@
 
 Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
 
+## Quickstart with Python 3(.10)
+```bash
+# In a virtual environment...
+pip install git+https://github.com/fbaltor/binwalk
+``` 
+For more info check [API](./API.md).
+
 
 ### *** Extraction Security Notice ***
 
